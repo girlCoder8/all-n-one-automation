@@ -1,0 +1,10 @@
+api/node_modules/
+api/reports/
+mobile/node_modules/
+mobile/reports/
+web/node_modules/
+web/reports/
+web/mochawesome-report/
+web/tmp/
+web/.env
+node_modules/

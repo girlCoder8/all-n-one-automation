@@ -1,0 +1,26 @@
+{
+  "name": "webdriverio_mobile-web-api",
+  "version": "1.0.0",
+  "description": "Web, API and Mobile Test Automation Framework",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girlCoder8/all-n-one-automation.git"
+  },
+  "keywords": [
+    "webdriverio",
+    "typescript",
+    "supertest",
+    "appium"
+  ],
+  "author": "Barb Gordon",
+  "license": "ISC",
+  "homepage": "https://github.com/girlCoder8/all-n-one-automation#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "yarn": "^1.22.19"
+  }
+}
